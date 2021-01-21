@@ -1,0 +1,6 @@
+module flikerer
+(
+	input [7:0]seg_in,
+	input [6:0]cnt,
+	output seg
+);

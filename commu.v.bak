@@ -1,0 +1,9 @@
+module commu(clk,key);
+input clk;
+input [3:0]key;
+output 
+always@()
+begin
+	
+end
+endmodule
